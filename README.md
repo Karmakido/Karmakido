@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Nothing**
 
-- 🧠 I’m currently learning **C# Unity Development**
+- 🧠 I’m currently learning **Networking**
 
 - 👀 Fun fact **I’m annoying:)**
 
