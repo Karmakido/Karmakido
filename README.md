@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Karmakido</h1>
 <h3 align="center">a Student from Germany</h3>
 
-- 🔭 I’m currently working on **Nothing**
+- 🔭 I’m currently working on **KREO**
 
 - 🧠 I’m currently learning **Networking**
 
